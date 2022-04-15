@@ -1,7 +1,7 @@
 #ifndef _PLATFORM_H_
 #define _PLATFORM_H_
 
-#include <core_version.h>
+#include <esp_arduino_version.h>
 
 #define STRHELPER(x) #x
 #define STR(x) STRHELPER(x) // stringifier
